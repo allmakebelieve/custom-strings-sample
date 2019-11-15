@@ -1,0 +1,17 @@
+"browse_featured_live_datetime_format" = "dd MMM h:mm";
+"browse_featured_live_ended_no_date_text" = "Live ended";
+"browse_featured_live_ended_text" = "This string is FAR too long already %@";
+"browse_featured_live_starting_soon_text" = "Live soon (%@)";
+"browse_featured_live_time_format" = "h:mm";
+"browse_featured_live_time_no_minutes_format" = "h";
+"general_actions_add_to_my_list_button" = "Favorites";
+"general_actions_my_list_add_error" = "Failed to add to Favorites";
+"general_actions_my_list_remove_error" = "Failed to remove from Favorites";
+"general_actions_remove_from_my_list_button" = "Favorites";
+"general_actions_resume_button" = "Continue watching";
+"general_my_list_added_message_text" = "Added to Favorites";
+"general_my_list_removed_message_text" = "Removed from Favorites";
+"general_section_my_list_text" = "Favorites";
+"library_empty_state_not_authenticated_message_tv_text" = "Join to save content for later by adding them to ‘Favorites’";
+"library_my_list_empty_state_message_text" = "Tap the ‘Favorites’ icon to bookmark content you want to watch later.";
+"library_my_list_empty_state_message_tv_text" = "Bookmark content for later by adding them to ‘Favorites’";
