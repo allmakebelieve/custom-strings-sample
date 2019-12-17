@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+// Uncomment below lines if you want to change the default app name. These will be the "app_icon_name" if not changed.
+
+//"CFBundleDisplayName" = "App Name";
+//"CFBundleName" = "App Name";
